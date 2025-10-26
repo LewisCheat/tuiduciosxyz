@@ -29,10 +29,10 @@ const apps = [
         descriptions: 'Hack Map Server Đài Kín No Key'
     },
     {
-        name: 'Tham Gia Tele Admin Nhận Key Free',
-        url: 'https://t.me/addlist/-XlXhBotlrFjNGI1',
-        img: 'https://media.discordapp.net/attachments/1418563926257565899/1431935371318395012/tele.png?ex=68ff393c&is=68fde7bc&hm=77af3e1c91c9bc6b3ba7047817bd8adf1ebff0f311c64f54bc203993dfbc1244&=&format=webp&quality=lossless',
-        icon: 'https://media.discordapp.net/attachments/1418563926257565899/1431935371318395012/tele.png?ex=68ff393c&is=68fde7bc&hm=77af3e1c91c9bc6b3ba7047817bd8adf1ebff0f311c64f54bc203993dfbc1244&=&format=webp&quality=lossless',
+        name: 'Tham Gia Kênh Của Admin Nhận Key Free',
+        url: 'https://link4sub.com/ZFDN',
+        img: 'https://media.discordapp.net/attachments/1418563926257565899/1431937888106451035/join-removebg-preview.png?ex=68ff3b94&is=68fdea14&hm=af5818eafec25f63a133ef9a4afc9a82bc31c6c0311b14f34d79a1ddcdd3a954&=&format=webp&quality=lossless',
+        icon: 'https://media.discordapp.net/attachments/1418563926257565899/1431937888106451035/join-removebg-preview.png?ex=68ff3b94&is=68fdea14&hm=af5818eafec25f63a133ef9a4afc9a82bc31c6c0311b14f34d79a1ddcdd3a954&=&format=webp&quality=lossless',
         descriptions: 'Sau khi tham gia nhắn mình qua các liên hệ phía trên'
     }
 /*    {
