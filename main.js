@@ -226,9 +226,9 @@ setInterval(() => {
   /* ===== MUSIC PLAYER ===== */
   const playlist = [
     'https://files.catbox.moe/s0nyo2.mp4',
-    'https://files.catbox.moe/0821zl.mp4',
-    'https://files.catbox.moe/idzhjg.mp4',
-    'https://files.catbox.moe/bzbw2d.mp4'
+    'https://files.catbox.moe/0821zl.mp3',
+    'https://files.catbox.moe/idzhjg.mp3',
+    'https://files.catbox.moe/bzbw2d.mp3'
   ];
 
   const audio = document.getElementById('bgMusic');
