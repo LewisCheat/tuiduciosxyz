@@ -29,11 +29,11 @@ const apps = [
         descriptions: 'Hack Map Server Đài Kín No Key'
     },
     {
-        name: 'Đăng ký tài khoản nhận ngay key free',
-        url: 'https://yeumoney.com/ref.php?id=49089',
-        img: 'https://cdn-icons-png.flaticon.com/512/10384/10384161.png',
-        icon: 'https://cdn-icons-png.flaticon.com/512/10384/10384161.png',
-        descriptions: 'Sau khi đăng ký cap màn hình gửi ad check done nhận key | LH thông tin phía trên'
+        name: 'Tham Gia Tele Admin Nhận Key Free',
+        url: 'https://t.me/addlist/-XlXhBotlrFjNGI1',
+        img: 'https://media.discordapp.net/attachments/1418563926257565899/1431935371318395012/tele.png?ex=68ff393c&is=68fde7bc&hm=77af3e1c91c9bc6b3ba7047817bd8adf1ebff0f311c64f54bc203993dfbc1244&=&format=webp&quality=lossless',
+        icon: 'https://media.discordapp.net/attachments/1418563926257565899/1431935371318395012/tele.png?ex=68ff393c&is=68fde7bc&hm=77af3e1c91c9bc6b3ba7047817bd8adf1ebff0f311c64f54bc203993dfbc1244&=&format=webp&quality=lossless',
+        descriptions: 'Sau khi tham gia nhắn mình qua các liên hệ phía trên'
     }
 /*    {
         name: 'Krnl VN ✅',
