@@ -31,8 +31,8 @@ const apps = [
     {
         name: 'Tham Gia Kênh Của Admin Nhận Key Free',
         url: 'https://link4sub.com/ZFDN',
-        img: 'https://media.discordapp.net/attachments/1418563926257565899/1431937888106451035/join-removebg-preview.png?ex=68ff3b94&is=68fdea14&hm=af5818eafec25f63a133ef9a4afc9a82bc31c6c0311b14f34d79a1ddcdd3a954&=&format=webp&quality=lossless',
-        icon: 'https://media.discordapp.net/attachments/1418563926257565899/1431937888106451035/join-removebg-preview.png?ex=68ff3b94&is=68fdea14&hm=af5818eafec25f63a133ef9a4afc9a82bc31c6c0311b14f34d79a1ddcdd3a954&=&format=webp&quality=lossless',
+        img: 'https://cdn-icons-png.freepik.com/512/10822/10822332.png',
+        icon: 'https://cdn-icons-png.freepik.com/512/10822/10822332.png',
         descriptions: 'Sau khi tham gia nhắn mình qua các liên hệ phía trên'
     }
 /*    {
