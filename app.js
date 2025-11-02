@@ -28,13 +28,6 @@ const apps = [
         icon: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/70/b9/fd70b970-f007-632e-f97d-30afc419f954/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Hack Map Server Đài Kín No Key'
     },
-    {
-        name: 'Tham Gia Kênh Của Admin Nhận Key Free',
-        url: 'https://link4sub.com/ZFDN',
-        img: 'https://cdn-icons-png.freepik.com/512/10822/10822332.png',
-        icon: 'https://cdn-icons-png.freepik.com/512/10822/10822332.png',
-        descriptions: 'Sau khi tham gia nhắn mình qua các liên hệ phía trên'
-    }
 /*    {
         name: 'Krnl VN ✅',
         url: 'https://sub.khoindvn.io.vn/krnl.html',
