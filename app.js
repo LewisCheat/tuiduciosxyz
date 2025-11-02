@@ -61,6 +61,21 @@ const apps = [
 
 const ksignApps = [
         {
+        name: 'KSign V2',
+        url: 'https://api.khoindvn.io.vn/Qih0uw',
+        img: 'img/pf/ksign.png',
+        descriptions: 'TechTree IT Systems Private Limited'   
+    },{
+        name: 'KSign V1',
+        url: 'https://api.khoindvn.io.vn/PtRcts',
+        img: 'img/pf/ksign.png',
+        descriptions: 'TechTree IT Systems Private Limited'   
+    },{
+        name: 'KSign',
+        url: 'https://api.khoindvn.io.vn/B3LYHy',
+        img: 'img/pf/ksign.png',
+        descriptions: 'TechTree IT Systems Private Limited'   
+    },{
         name: 'KSign New Cert ✅',
         url: 'https://api.khoindvn.io.vn/9jOxw6',
         img: 'img/pf/ksign.png',
