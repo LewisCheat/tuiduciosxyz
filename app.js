@@ -3,23 +3,10 @@
 const apps = [
     {
         name: 'AOV CHEAT VN',
-        url: 'https://zufile.com/download/ZQfKsbNQH2',
+        url: 'https://install.cheatlibrary.xyz',
         img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/70/b9/fd70b970-f007-632e-f97d-30afc419f954/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         icon: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/70/b9/fd70b970-f007-632e-f97d-30afc419f954/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
         descriptions: 'Hack Map Chống Tố Vip Mua Key LH thông tin phía trên'
-    },
-    {
-        name: 'AOV LITE',
-        url: 'https://zufile.com/download/SlqFRWm2op',
-        img: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/70/b9/fd70b970-f007-632e-f97d-30afc419f954/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        icon: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/70/b9/fd70b970-f007-632e-f97d-30afc419f954/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg',
-        descriptions: 'Hack Map Kín Full Chức Năng Vip Vượt Link Mỗi 24h Để Lấy Key'
-    },
-    {
-        name: 'Auto GetKey AOV LITE',
-        url: 'https://v4.ppapikey.xyz/getlink?tokenID=135&username=1711Cheat',
-        img: 'https://cdn-icons-gif.flaticon.com/11259/11259476.gif',
-        descriptions: 'Mỗi 24h lấy key bản lite tại đây | Tránh lấy key sau 23h dễ lỗi'
     },
     {
         name: 'Map Đài Antiban Vip',
